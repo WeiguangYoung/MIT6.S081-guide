@@ -14,5 +14,5 @@
 ## 官方资料
 - 代码仓库 `git://g.csail.mit.edu/xv6-labs-2020`
 - 官网 [https://pdos.csail.mit.edu/6.828/2020/index.html](https://pdos.csail.mit.edu/6.828/2020/index.html)
-- labs [ttps://pdos.csail.mit.edu/6.828/2020/labs/](https://pdos.csail.mit.edu/6.828/2020/labs/)
+- labs [ttps://pdos.csail.mit.edu/6.828/2020/labs](https://pdos.csail.mit.edu/6.828/2020/labs)
 - xv6-book [https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)
