@@ -6,7 +6,7 @@
 
 ## 笔记和实验代码总结
 - 中文笔记 [https://github.com/huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081)  
-- 实验代码 [https://blog.miigon.net/categories/mit6-s081/](https://blog.miigon.net/categories/mit6-s081/)
+- 实验代码 [https://blog.miigon.net/categories/mit6-s081](https://blog.miigon.net/categories/mit6-s081)
 
 ## 实验环境
 - Docker实验环境搭建 [https://github.com/CalvinHaynes/MIT6.S081-2020-labs](https://github.com/CalvinHaynes/MIT6.S081-2020-labs)
