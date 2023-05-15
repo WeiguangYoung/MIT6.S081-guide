@@ -9,7 +9,7 @@
 - 实验代码 [https://blog.miigon.net/categories/mit6-s081/](https://blog.miigon.net/categories/mit6-s081/)
 
 ## 实验环境
-- Docker实验环境搭建 [https://github.com/CalvinHaynes/MIT6.S081-2020-labs.git](https://github.com/CalvinHaynes/MIT6.S081-2020-labs.git)
+- Docker实验环境搭建 [https://github.com/CalvinHaynes/MIT6.S081-2020-labs](https://github.com/CalvinHaynes/MIT6.S081-2020-labs)
 
 ## 官方资料
 - 代码仓库 `git://g.csail.mit.edu/xv6-labs-2020`
