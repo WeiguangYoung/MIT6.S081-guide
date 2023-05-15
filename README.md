@@ -1,5 +1,7 @@
 # MIT6.S081-guide
 
+学习MIT6.S081使用的一些资料汇总
+
 ## 视频学习地址
 - b站中文字幕  [https://www.bilibili.com/video/BV19k4y1C7kA](https://www.bilibili.com/video/BV19k4y1C7kA)
 - b站中英文字幕  [https://www.bilibili.com/video/BV1rS4y1n7y1](https://www.bilibili.com/video/BV1rS4y1n7y1)
