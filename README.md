@@ -7,13 +7,13 @@
 ## 配套笔记和代码
 - 中文笔记 [https://github.com/huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081)  
 - 代码仓库 `git://g.csail.mit.edu/xv6-labs-2020`
+- 实验代码 [https://blog.miigon.net/categories/mit6-s081/](https://blog.miigon.net/categories/mit6-s081/)
 
-
-## Docker实验环境
+## 实验环境
 - 实验环境 [https://github.com/CalvinHaynes/MIT6.S081-2020-labs.git](https://github.com/CalvinHaynes/MIT6.S081-2020-labs.git)
-
 - 实验环境及笔记 [https://github.com/CalvinHaynes/MIT6.S081-2020Fall](https://github.com/CalvinHaynes/MIT6.S081-2020Fall)
 
 ## 相关资料链接
-- 课程官网(labs和xv6-book) [https://pdos.csail.mit.edu/6.828/2020/index.html](https://pdos.csail.mit.edu/6.828/2020/index.html)
+- 官网 [https://pdos.csail.mit.edu/6.828/2020/index.html](https://pdos.csail.mit.edu/6.828/2020/index.html)
+- labs [ttps://pdos.csail.mit.edu/6.828/2020/labs/](https://pdos.csail.mit.edu/6.828/2020/labs/)
 - xv6-book [https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)
