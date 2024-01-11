@@ -1,0 +1,9 @@
+[submodule "xv6-labs-2020"]
+	path = xv6-labs-2020
+	url = git://g.csail.mit.edu/xv6-labs-2020
+[submodule "MIT6.S081-2020-labs"]
+	path = MIT6.S081-2020-labs
+	url = https://github.com/CalvinHaynes/MIT6.S081-2020-labs.git
+[submodule "MIT6.S081"]
+	path = MIT6.S081
+	url = https://github.com/huihongxiao/MIT6.S081

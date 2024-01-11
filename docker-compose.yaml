@@ -1,0 +1,13 @@
+version: '3.0'
+services:
+    mit6s081:
+      container_name: "mit6s081"
+      image: "ceresg/mit6s081:latest"
+      restart: always
+      command: "code-server"
+      ports:
+        - 8080:8080
+      environment:
+        PASSWORD: Qwe12345
+      volumes:
+        - "./xv6-labs-2020:/home/mit6s081/xv6-labs-2020"
