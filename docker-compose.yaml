@@ -4,9 +4,8 @@ services:
       container_name: "mit6s081"
       image: "ceresg/mit6s081:latest"
       restart: always
-      command: "code-server"
       ports:
-        - 8080:8080
+        - 8848:8848
       environment:
         PASSWORD: Qwe12345
       volumes:
